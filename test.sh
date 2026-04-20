@@ -1,4 +1,4 @@
 python test.py  \
---content_dir ../../dataset/test_final2/content \
---style_dir ../../dataset/test_final2/style    \
+--content_dir ../../dataset/test/content \
+--style_dir ../../dataset/test/style    \
 --output test_output/test001
