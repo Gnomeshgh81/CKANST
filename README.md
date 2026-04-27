@@ -36,3 +36,7 @@ Directly use model inference
 ```shell
 sh test.sh
 ```
+
+```shell
+Thank you for the open-source code provided by [ConvKAN](https://github.com/IvanDrokin/torch-conv-kan.git).
+```
