@@ -1,6 +1,6 @@
 # CKASNT
 
-Accepted by ICASSP2026
+This work is accepted by ICASSP2026
 
 
 
